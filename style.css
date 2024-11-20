@@ -34,6 +34,9 @@ h1 {
     vertical-align: middle;
     width: 100%;
     border-radius: 20px;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    height: auto;
 }
 
 @media screen and (max-width: 800px) {
